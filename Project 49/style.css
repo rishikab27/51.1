@@ -1,0 +1,36 @@
+h1{
+    color: #0400ff
+}
+h2{
+    color: rgb(31, 153, 153)
+}
+h4{
+    color: white
+}
+body{
+    background-color: #000000;
+}
+.header{
+    background-color: white;
+    display:flex;
+  
+}
+.head{
+    margin-left: 489px;
+}
+.links{
+margin-left: 489px;
+margin-bottom:10px;
+justify-content:space-evenly;
+margin-top: 10px;
+
+}
+a:visited{
+    color:black
+}
+a:link{
+    color: black
+}
+.org{
+   
+}
